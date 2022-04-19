@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "payeeName": "Rahul",
+      "price": 400,
+      "product": "Bike",
+      "setDate": "2022-04-19",
+      "id": 1
+    },
+    {
+      "payeeName": "Ramesh",
+      "price": 300,
+      "product": "Petrol",
+      "setDate": "2022-04-19",
+      "id": 2
+    },
+    {
+      "payeeName": "Ramesh",
+      "price": 500,
+      "product": "Grocery",
+      "setDate": "2022-04-19",
+      "id": 3
+    },
+    {
+      "payeeName": "Rahul",
+      "price": 100,
+      "product": "Vegetables",
+      "setDate": "2022-04-19",
+      "id": 4
+    },
+    {
+      "payeeName": "Rahul",
+      "product": "Movie Tickets",
+      "price": 1200,
+      "setDate": "2022-04-19",
+      "id": 5
+    },
+    {
+      "payeeName": "Ramesh",
+      "product": "Fruits",
+      "price": 300,
+      "setDate": "2022-04-21",
+      "id": 6
+    },
+    {
+      "payeeName": "Ramesh",
+      "product": "Milk",
+      "price": 150,
+      "setDate": "2022-04-20",
+      "id": 7
+    },
+    {
+      "payeeName": "Rahul",
+      "product": "Electricity Bill",
+      "price": 2750,
+      "setDate": "2022-04-20",
+      "id": 8
+    }
+  ]
+}
